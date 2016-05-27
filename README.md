@@ -25,7 +25,7 @@
 
 # Colombo leanpath
 
-[Trainee 2016](training-2016.md)
-[Bài tập](https://github.com/colombo-trainee?utf8=✓&query=trainee)
++ [Trainee 2016](training-2016.md)
++ [Bài tập](https://github.com/colombo-trainee?utf8=✓&query=trainee)
 
 Go to [wiki](https://github.com/colombo-trainee/help/wiki) to view more
