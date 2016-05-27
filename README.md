@@ -21,6 +21,8 @@
 
 # Colombo seminars
 
++ **001:Làm giao diện** [Mr Thạo](seminars/001-lam-giao-dien.md)
+
 # Colombo leanpath
 
 [Trainee 2016](training-2016.md)
