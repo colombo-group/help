@@ -1,6 +1,7 @@
 # Nội dung
 
-[Slide](002-slide.pptx)
++ [Slide](002-slide.pptx)
++ Trình bày [HoanNC](https://github.com/hoannc54)
 
 # Keynote
 
