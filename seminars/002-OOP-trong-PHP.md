@@ -9,6 +9,7 @@
 
 # Class
 + Khai báo lớp
+<br/>
 class Tên lớp{
      //các khai báo bên trong. 
 }
@@ -31,6 +32,11 @@ Khởi tạo đối tượng(khởi tạo lớp)
 $tenbien= new ClassName();
 + Gán và gọi thuộc tính – phương thức
 Truy xuất đến các thuộc tính của đối tượng và gọi các phương thức của đối tượng ta dùng toán tử (->)
++ Hàm khởi tạo:
+Hàm khởi tạo có đặc điểm nó luôn được gọi tới khi ta khởi tạo đối tượng.
+function __construct(){
+}
+# 
  + Abstract, Interface, ...
  
 + Sự khác nhau interface, abstract
