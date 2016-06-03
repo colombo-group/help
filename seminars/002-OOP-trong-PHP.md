@@ -11,31 +11,31 @@
 + Khai báo lớp
 <br/>
 class Tên lớp{
-     //các khai báo bên trong. 
-}
+     <br/>//các khai báo bên trong. 
+<br/>}
 + Thuộc tính của lớp
-class TenLop{
-	  var $tenthuoctinh;
-}
+<br/>class TenLop{
+	  <br/>var $tenthuoctinh;
+<br/>}
 + Phương thức của lớp
-class TenLop{
-	 Function tenPhuongThuc{
-	   //các lệnh bên trong. 
-  }
-}
+<br/>class TenLop{
+	 <br/>Function tenPhuongThuc{
+	   <br/>//các lệnh bên trong. 
+  <br/>}
+<br/>}
 + Khởi tạo lớp(đối tượng ) mới
 
-Phân biệt Khởi tạo đối tượng và khai báo đối tượng
-Khai báo đối tượng hay chính là khai báo Class của đối tượng đó
-Khởi tạo đối tượng là tạo ra một hình tượng của lớp, đến đây thì class mới được gọi là đối tượng. 
-Khởi tạo đối tượng(khởi tạo lớp)
-$tenbien= new ClassName();
+<br/>Phân biệt Khởi tạo đối tượng và khai báo đối tượng
+<br/>Khai báo đối tượng hay chính là khai báo Class của đối tượng đó
+<br/>Khởi tạo đối tượng là tạo ra một hình tượng của lớp, đến đây thì class mới được gọi là đối tượng. 
+<br/>Khởi tạo đối tượng(khởi tạo lớp)
+<br/>$tenbien= new ClassName();
 + Gán và gọi thuộc tính – phương thức
-Truy xuất đến các thuộc tính của đối tượng và gọi các phương thức của đối tượng ta dùng toán tử (->)
+<br/>Truy xuất đến các thuộc tính của đối tượng và gọi các phương thức của đối tượng ta dùng toán tử (->)
 + Hàm khởi tạo:
-Hàm khởi tạo có đặc điểm nó luôn được gọi tới khi ta khởi tạo đối tượng.
-function __construct(){
-}
+<br/>Hàm khởi tạo có đặc điểm nó luôn được gọi tới khi ta khởi tạo đối tượng.
+<br/>function __construct(){
+<br/>}
 # 
  + Abstract, Interface, ...
  
