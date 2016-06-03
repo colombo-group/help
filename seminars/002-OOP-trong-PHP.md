@@ -11,8 +11,7 @@
 
 # Abstract: 
  + Lớp trừu tượng là gì : Chúng ta có thể hiểu đơn giản nó như một lớp cha cho tất cả các lớp con có cùng bản chất kế thừa nó. Chú ý là mỗi lớp con chỉ có thể thừa kế từ một lớp cha và chúng ta cũng không thể tạo được các đối tượng trực tiếp từ lớp cha. Các lớp này sẽ chứa các phương thức trừu tượng, các lớp khác khi kế thừa sẽ phải định nghĩa các phương thức ấy
- <br/>  public abstract TenClass{
-<br/>  }
+ 
 
 # Interface: 
 
