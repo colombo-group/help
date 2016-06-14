@@ -14,6 +14,10 @@
 #PHP
 
 + Lập trình PHP nâng cao [Freetuts.net](http://freetuts.net/hoc-php/hoc-lap-trinh-php-nang-cao)
++ Một số kiến thức về PHP chuẩn [Php The Right Way](http://www.phptherightway.com)
++ Luồng xử lý của [CodeIgniter 3.x](http://www.codeigniter.com/user_guide/overview/appflow.html#application-flow-chart)
++ Luồng xử lý của [CakePHP 3.x](http://book.cakephp.org/3.0/en/intro.html#cakephp-request-cycle)
++ Luồng xử lý của [Laravel 5](http://laravel-recipes.com/recipes/52/understanding-the-request-lifecycle)
 
 # Tổng hợp
 
