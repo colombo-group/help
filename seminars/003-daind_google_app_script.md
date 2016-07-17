@@ -1,6 +1,6 @@
 # Tổng quan về Google App Scripts
 
-# Key notes
+# Định Nghĩa, Ứng dụng, Đắc điểm , phân loại, sơ lược về code và IDE, điểm mạnh ,điểm yếu.
 
 # Slide
 
