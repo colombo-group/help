@@ -26,7 +26,9 @@
 # Colombo seminars
 
 + **001:Làm giao diện** [Mr Thạo](seminars/001-lam-giao-dien.md)
-+ **001:OOP trong PHP** [HoanNC](seminars/002-OOP-trong-PHP.md)
++ **002:OOP trong PHP** [HoanNC](seminars/002-OOP-trong-PHP.md)
++ **003:Giới thiệu Google App Script** [DaiND](seminars/003-daind_google_app_script.md)
++ **004:Independencies Injection trong Laravel** [TienNH](seminars/004-tiennh_dependencies_injection.md)
 
 # Colombo leanpath
 
