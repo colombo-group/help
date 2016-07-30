@@ -29,6 +29,7 @@
 + **002:OOP trong PHP** [HoanNC](seminars/002-OOP-trong-PHP.md)
 + **003:Giới thiệu Google App Script** [DaiND](seminars/003-daind_google_app_script.md)
 + **004:Independencies Injection trong Laravel** [TienNH](seminars/004-tiennh_dependencies_injection.md)
++ **005: OOP trong javascript** [DaiND](seminars/005-oop-javascript.md)
 
 # Colombo leanpath
 
