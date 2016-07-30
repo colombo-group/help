@@ -21,10 +21,12 @@
     6. Laravel Contracts
         - Giới thiệu.
         - Cách sử dụng.
+        
 # Keynote
   - Nắm vững kĩ thuật DI và hiểu rõ về Service Container trong Laravel.
   - Bind với service container thông qua Provider.
-  - Cách sử dụng Providers, Facades và Contracts trong Laravel
+  - Cách sử dụng Providers, Facades và Contracts trong Laravel.
+  
 # Slide 
 
 [Dependency Injection](DependencyInjection.pptx)
