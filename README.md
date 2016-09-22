@@ -2,6 +2,7 @@
 
 + [Hướng dẫn chuyển từ PDF sang HTML](https://www.izwebz.com/search/?q=PSD+sang+HTML&cx=014821440840817908112%3Atm2aqsqxgka&cof=FORID%3A10&ie=UTF-8&filter=0&siteurl=)
 + Tài liệu, bài tập [tại đây](https://github.com/colombo-trainee/help/tree/master/Web%20Frontend)
++ Làm giao diện từ Bootstrap [Bootstrap theme](customize_bootstrap.md)
 
 # DEV Tools
 
