@@ -15,6 +15,7 @@ Ví dụ
 Các bước
 
 - Tìm hiểu về bootstrap(các định dạng tải về, chú ý bản sass dùng để làm, xem cách build bản sass)
+- Cài đặt, chạy thử [gulp-sass](https://www.npmjs.com/package/gulp-sass)
 - Đọc về [css](http://getbootstrap.com/css/) để biết các css của BS để biết lõi của BS gồm những gì, xây dựng như thế nào, ...
 - Đọc về [component](http://getbootstrap.com/components/) để biết các component có sẵn của BS gồm những thành phần nào, chú ý đến cấu trúc các thẻ trong ngoài, các thành phần của 1 component, cách đặt tên các thành phần và cách đặt tên biến thể của component.
 - Đọc về cú pháp sass
