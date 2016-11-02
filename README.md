@@ -23,6 +23,13 @@
 # Tổng hợp
 
 + Học từ cơ bản [Freecodecamp](http://www.freecodecamp.com)
++ Slide sự kiện **Vietnam Web Summit 2016** 
+  + [Slides](vws2016)
+  + Middleware trong PHP [Youtube](https://www.youtube.com/watch?v=nQ4sIqoEiOI)
+  + Phân tích dữ liệu trong Saas [Youtube](https://www.youtube.com/watch?v=RH2km1WrVw4)
+  + Vấn đề và giải pháp trong xây dựng ứng dụng mạng xã hội [Soundcloud](https://soundcloud.com/vu-thai-hoc/van-de-va-giai-phap-xay-dung-mang-xa-hoi-co-kha-nang-mo-rong)
+  + 7 chia sẻ về phát triển sản phẩm thegioididong.com [Soundcloud](https://soundcloud.com/vu-thai-hoc/7-chia-se-ve-phat-trien-san-pham-the-gioi-di-dong)
++ Tài liệu về **docker** [Pdf](docker)
 
 # Colombo seminars
 
@@ -31,6 +38,7 @@
 + **003:Giới thiệu Google App Script** [DaiND](seminars/003-daind_google_app_script.md)
 + **004:Independencies Injection trong Laravel** [TienNH](seminars/004-tiennh_dependencies_injection.md)
 + **005: OOP trong javascript** [DaiND](seminars/005-oop-javascript.md)
++ **006: SEO onpage cơ bản** [NhanPV](seminars/006-SEO-Onpage-co-ban.pptx) [Video](https://www.youtube.com/watch?v=xrOfuFq8RzM)
 
 # Colombo leanpath
 
