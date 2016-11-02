@@ -1,6 +1,6 @@
 # HTML/CSS/JAVASCRIPT
 
-+ [Hướng dẫn chuyển từ PDF sang HTML](https://www.izwebz.com/search/?q=PSD+sang+HTML&cx=014821440840817908112%3Atm2aqsqxgka&cof=FORID%3A10&ie=UTF-8&filter=0&siteurl=)
++ [Hướng dẫn chuyển từ PSD sang HTML](https://www.izwebz.com/search/?q=PSD+sang+HTML&cx=014821440840817908112%3Atm2aqsqxgka&cof=FORID%3A10&ie=UTF-8&filter=0&siteurl=)
 + Tài liệu, bài tập [tại đây](https://github.com/colombo-trainee/help/tree/master/Web%20Frontend)
 + Làm giao diện từ Bootstrap [Bootstrap theme](https://github.com/colombo-trainee/help/blob/master/articles/customize_bootstrap.md)
 
