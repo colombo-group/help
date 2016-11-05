@@ -39,6 +39,7 @@
 + **004:Independencies Injection trong Laravel** [TienNH](seminars/004-tiennh_dependencies_injection.md)
 + **005: OOP trong javascript** [DaiND](seminars/005-oop-javascript.md)
 + **006: SEO onpage cơ bản** [NhanPV](seminars/006-SEO-Onpage-co-ban.pptx) [Video](https://www.youtube.com/watch?v=xrOfuFq8RzM)
++ **007: Học tiếng Anh hiệu quả** [MinhMQ](seminars/007-English.pdf)
 
 # Colombo leanpath
 
