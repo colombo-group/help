@@ -1,3 +1,19 @@
+# Tiêu chí thực hiện bài tập
+
+- Khi làm bài cần bám sát yêu cầu của bài. Trước tiên phải thỏa mãn các yêu cầu về mặt người dùng(Giao diện, trải nghiệm người dùng, tính năng cho người dùng), sau đó mới đến các yêu cầu về code, cách code, chuẩn code, ...
+- Bài làm nên được push lên thường xuyên khi thực hiện được 1 tính năng trong bài tập. Ví dụ các mốc push bài : khởi tạo >> xong tính năng 1 : ... >> xong tính năng 2 : ... >> fix tính năng 1 : ... >> final
+- Không được dùng tiếng việt(có dấu hay không dấu khi đặt tên biến, tên file)
+- Khi có vướng mắc không hiểu hoặc không tìm được câu trả lời thì hỏi trực tiếp người hướng dẫn, nên viết issue tương ứng với bài tập đang thắc mắc(ví dụ:  trainee001, bootstrap001, ...).
+- Tên repo bài làm cần bắt đầu bằng tên người làm, sau đó là phần chú giải tương ứng bài tập. Ví dụ:
+
+ - trainee001 -> HocVT001
+ - bootstrap001 -> HocVT-bs001
+ - jquery001 -> HocVT-jquery001
+ - laravel001 -> HocVT-laravel001
+ - ...
+ 
+- Khi push lên phải chú ý mình đang ở chế độ develop, do đó không push các file liên quan đến product(nếu bài tập có dạng develop/product như các bài `sass`, hay `laravel`) như file `asset` đã được gen từ file nguồn(sass, less, coffe, es6, ...) và các file lưu biến môi trường và chứa các thông tin liên quan xác thực người dùng của các dịch vụ như email, ftp, ssh, cloud drive, ...
+
 # HTML/CSS/JAVASCRIPT
 
 + [Hướng dẫn chuyển từ PSD sang HTML](https://www.izwebz.com/search/?q=PSD+sang+HTML&cx=014821440840817908112%3Atm2aqsqxgka&cof=FORID%3A10&ie=UTF-8&filter=0&siteurl=)
