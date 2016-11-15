@@ -55,11 +55,15 @@
 + **004:Independencies Injection trong Laravel** [TienNH](seminars/004-tiennh_dependencies_injection.md)
 + **005: OOP trong javascript** [DaiND](seminars/005-oop-javascript.md)
 + **006: SEO onpage cơ bản** [NhanPV](seminars/006-SEO-Onpage-co-ban.pptx) [Video](https://www.youtube.com/watch?v=xrOfuFq8RzM)
-+ **007: Học tiếng Anh hiệu quả** [MinhMQ](seminars/007-English.pdf)
++ **007: Học ngôn ngữ lập trình mới** [TrieuNV](seminars/007-new-program-languge.pptx)
++ **008: Học tiếng Anh hiệu quả** [MinhMQ](seminars/008-English.pdf)
++ **009: Flexbox css3** [ThanhNT](seminars/009-flexbox-css3.ppt)
 
 # Colombo leanpath
 
 + [Trainee 2016](training-2016.md)
-+ [Bài tập](https://github.com/colombo-trainee?utf8=✓&query=trainee)
++ [Bài tập cơ bản](https://github.com/colombo-trainee?q=trainee)
++ [Bài tập jquery](https://github.com/colombo-trainee?q=jquery)
++ [Bài tập bootstrap](https://github.com/colombo-trainee?q=bootstrap)
 
 Go to [wiki](https://github.com/colombo-trainee/help/wiki) to view more
