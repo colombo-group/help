@@ -13,9 +13,42 @@
 - Thực hiện `git remote add` để thêm remote là repo đã tạo ở trên cho projet hiện tại.
 - Push lên server và gửi link, add quyền các member khác vào `repo`
 
-2. Laravel
+2. Laravel(5.4+)
 
 - Tạo repository online(gitlab, github, bitbucket, ...)
 - Tạo project trên máy(clone repo `laravel` hoặc sử dụng `laravel installer`)
-- Khai báo thư việc cần dùng thêm(`debugbar, ide-helper, flysystem, ...`)
-- 
+- Khai báo sử dụng git cho project `git init`
+- Khai báo thư viện cần dùng thêm(`debugbar, ide-helper, flysystem, ...`) qua composer và khai báo trong `app.php` rồi chạy `publish` nếu cần
+- Khai báo trong `.gitignore` để bỏ qua các thư mục assets trong `public`, ngoại trừ `public/vendor` nếu có. Đối với các thư mục chứa file thay đổi trong quá trình chạy: ví dụ `public/sitemaps/`, `public/images` thì tạo file `.gitigore` trong thư mục đó
+
+```
+*
+!.gitignore
+```
+như thế sẽ giữ được thư mục để push lên git và không đưa các file bên trong lên git.
+
+- Cấu trúc thư mục assets để compile (tham khảo)
+
+```
+-- assets
+	-- fonts
+	-- images
+	-- js
+	-- plugins
+	-- scss
+```
+
+- Cấu hình `webpack` để compile các file assets vào đúng thư mục cần thiết trong `public`, nên đưa tất cả vào trong 1 thư mục `public/assets` để dễ quản lý.
+- Nếu project cần `auth` thì khởi tạo `auth` hoặc sử dụng package hỗ trợ.
+- Thực hiện 1 tính năng cần làm của project.
+- Commit lần đầu(ở các bước trên sau khi hoàn thiện có thể commit nếu muốn)
+- Thực hiện `git remote add` để thêm remote là repo đã tạo ở trên cho projet hiện tại.
+- Push lên server và gửi link, add quyền các member khác vào `repo`
+
+### Sau khi khởi tạo base code
+- Tạo các `branch` cần thiết và cài đặt quyền, ví dụ:
+  - `master` : chỉ admin mới được quyền push và cần để chế độ `protect`, các dev khác vẫn pull được.
+  - `develop` : nên đặt làm mặc định (active) để các dev khác khi clone sẽ nhận luôn branch này
+  - `deploy` : repo này chỉ để người làm nhiệm vụ tạo deploy mới được push. cũng protect
+
+- Quá trình dev và sử dụng các repo tham khảo : http://nvie.com/posts/a-successful-git-branching-model/
