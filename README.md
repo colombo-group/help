@@ -46,7 +46,8 @@
   + Vấn đề và giải pháp trong xây dựng ứng dụng mạng xã hội [Soundcloud](https://soundcloud.com/vu-thai-hoc/van-de-va-giai-phap-xay-dung-mang-xa-hoi-co-kha-nang-mo-rong)
   + 7 chia sẻ về phát triển sản phẩm thegioididong.com [Soundcloud](https://soundcloud.com/vu-thai-hoc/7-chia-se-ve-phat-trien-san-pham-the-gioi-di-dong)
 + Tài liệu về **docker** [Pdf](docker)
-
++ Design pattern in PHP https://github.com/domnikl/DesignPatternsPHP
++ Design pattern https://github.com/kamranahmedse/design-patterns-for-humans
 # Colombo seminars
 
 + **001:Làm giao diện** [Mr Thạo](seminars/001-lam-giao-dien.md)
