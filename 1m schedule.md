@@ -27,6 +27,27 @@
   - ES5 ES6
   - Nodejs
 
+- Thực hành 1
+  - Tạo 1 jquery plugin để áp dụng hiệu ứng cho 1 thành phần div bên trong 1 div cha như hình vẽ
+
+  ![normal](images/normal.png)
+  - div cha có chiều cao được định sẵn, khi kéo trình duyệt lên nhưng chưa qua điểm cuối của div cha thì div con trôi dọc theo và cố định cách viền trên của trình duyệt 1 khoảng `a px`
+
+  ![normal](images/scroll%201.png)
+  - khi kéo trang web đi qua điểm cuối của trình duyệt thì cả 2 div đều bị kéo theo
+
+  ![normal](images/scroll%202.png)
+  - Giả sử div con có id `almost-show` thì chỉ cần gọi
+  ```
+  $('#almost-show').inner_float({
+    top:10px
+  });
+  ```
+
+- Thực hành 2
+
+
+
 ## Tuần 3
 - Mục tiêu kiến thức
   - PHP 5.6 7, Design pattern trong PHP
