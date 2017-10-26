@@ -45,8 +45,44 @@
   ```
 
 - Thực hành 2
+  - Tên : Remote browser
+  - Tạo 1 server bằng nodejs đảm nhiệm nhiệm vụ vào 1 trang web được định sẵn và trả về thông tin được yêu cầu
+  - Request :
+  ```
+  {
+    url : 'http://google.com',
+    request : 'html,header,cookie',
+    script : {}
+  }
+  ```
+  - Response lỗi 
 
+  ```
+  {
+    success : false,
+    message : 'Không thể khởi động selenium/phantomjs/puppetee'
+  }
+  ```
 
+  - Response OK 
+  ```
+  {
+    success : true,
+    message : 'OK',
+    data : {
+      cookie : '',
+      html : '',
+      header : []
+    }
+  }
+  ```
+
+  - Sử dụng nodejs kết nối với Chromium qua `puppetee` để truy cập và lấy các thông tin cần thiết.
+  - Script để điều khiển trình duyệt trước khi lấy thông tin, ví dụ : login rồi mới lấy kết quả. (Option)
+  - Tham khảo (chỉ sử dụng puppetee): 
+    - https://github.com/GoogleChrome/puppeteer
+    - http://casperjs.org
+    - http://phantomjs.org
 
 ## Tuần 3
 - Mục tiêu kiến thức
