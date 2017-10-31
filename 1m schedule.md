@@ -1,5 +1,7 @@
 # Kế hoạch đào tạo cơ bản 1 tháng
 
+[Tuần 1](#tuần-1) - [Tuần 2](#tuần-2) - [Tuần 3](#tuần-3) - [Tuần 4](#tuần-4)
+
 ## Tuần 1
 - Mục tiêu kiến thức
   - HTML5 & CSS3
@@ -26,6 +28,13 @@
   - Jquery, jquery plugin, Javascript
   - ES5 ES6
   - Nodejs
+
+- Lý thuyết:
+  - Jquery, các hàm jquery hỗ trợ, selector, dom manipulate
+  - Cách tạo jquery plugin
+  - Javascript cơ bản, Object vs Array trong javascript, thao tác với string trong javascript
+  - ES6 và sự khác biệt với ES5
+  - Cú pháp nodejs, cài đặt, modules, ...
 
 - Thực hành 1
   - Tạo 1 jquery plugin để áp dụng hiệu ứng cho 1 thành phần div bên trong 1 div cha như hình vẽ
@@ -83,11 +92,35 @@
     - https://github.com/GoogleChrome/puppeteer
     - http://casperjs.org
     - http://phantomjs.org
+  ![Sơ đồ](remote%20browser.png)
 
 ## Tuần 3
 - Mục tiêu kiến thức
   - PHP 5.6 7, Design pattern trong PHP
   - Composer, khởi tạo 1 package
+
+- Lý thuyết :
+  - Cú pháp PHP cơ bản, cách đọc PHP document, tra hàm, ...
+  - Hướng đối tượng trong PHP
+  - PHP5 vs PHP7
+  - [Design pattern](https://github.com/kamranahmedse/design-patterns-for-humans), [design pattern trong PHP](https://github.com/domnikl/DesignPatternsPHP)
+  - Composer là gì, để làm gì, cú pháp file composer.json, cách dùng. Phar là gì. Thử xem code trong file composer/composer.phar 
+  - Cách tạo 1 php package với composer
+  - PHPUnit
+  - Xem cấu trúc 1 số package trong PHP https://packagist.org/
+
+- Thực hành 1:
+  - Tạo 1 PHP package với composer hỗ trợ thao tác với URL
+  - Tên package `ten_trainee/url_helper`
+  - Tính năng:
+    - Valid 1 chuỗi có là url hợp lệ không
+    - Nối 1 path với 1 base url. Ví dụ `http://google.com/a/` nối với `xyz.html` thành `http://google.com/a/xyz.html` nhưng nối với `/xyz.html` thành `http://google.com/xyz.html`
+    - Lấy ra được thông tin : protocol, port, domain
+    - Viết file test sử dụng PHPUnit
+  - Viết file `readme.md` giới thiệu, hướng dẫn cách sử dụng
+  - Submit lên Packagist sau khi hoàn thiện các tính năng trên
+  - Cập nhật file `readme.md` với cách cài đặt bằng composer
+
 
 ## Tuần 4
 - Mục tiêu kiến thức
