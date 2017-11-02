@@ -10,11 +10,14 @@
 
 - Lý thuyết : 
   - Đọc qua các thẻ HTML5, CSS3. Đọc 1 số bài so sánh với HTML4 CSS2
+  - Các thuộc tính liên quan đến layout http://learnlayout.com/toc.html
   - Cú pháp SASS
   - Cách dùng `Gulp` để compile file `sass` sang `css`
   - Cấu trúc project có dử fụng sass, html cơ bản
-  - Modular trong css
-  - Bootstrap4 : Các component của BS4, các Helper, utilities class, ...
+  - Modular trong css http://thesassway.com/advanced/modular-css-an-example
+  - Bootstrap4 : Các `component` của BS4, các Helper, utilities class, ... tìm hiểu kỹ 1 module bất kỳ để xem BS4 áp dụng modular ntn : lưu ý class module, class biến thể, sự phụ thuộc về mặt cấu trúc trong 1 module. 
+    - Tham khảo phần phân chia style cho trang document của bootstrap https://github.com/twbs/bootstrap/tree/v4-dev/assets/scss với thự tự import các file scss trong `docs.scss`
+    - Task compile css cho trang document https://github.com/twbs/bootstrap/blob/v4-dev/package.json#L23
   - Xem cấu trúc html của các module trong 1 trang html đầy đủ qua ví dụ https://v4-alpha.getbootstrap.com/examples/
   - Cấu trúc 1 project chỉ gồm html/css/js có sử dụng gulp để compile sass https://github.com/colombo-trainee/bootstrap4-scss-gulp-starter-kit.git
 
@@ -30,7 +33,8 @@
   - Nodejs
 
 - Lý thuyết:
-  - Jquery, các hàm jquery hỗ trợ, selector, dom manipulate
+  - Jquery, các hàm jquery hỗ trợ, selector, các hàm để dom manipulate, các hàm liên quan animation
+  - Chọn 1 plugin jquery để sử dụng 
   - Cách tạo jquery plugin
   - Javascript cơ bản, Object vs Array trong javascript, thao tác với string trong javascript
   - ES6 và sự khác biệt với ES5
@@ -104,9 +108,10 @@
   - Hướng đối tượng trong PHP
   - PHP5 vs PHP7
   - [Design pattern](https://github.com/kamranahmedse/design-patterns-for-humans), [design pattern trong PHP](https://github.com/domnikl/DesignPatternsPHP)
-  - Composer là gì, để làm gì, cú pháp file composer.json, cách dùng. Phar là gì. Thử xem code trong file composer/composer.phar 
+  - Xem qua PHP-FIG, xem PSR-4 là gì
+  - Composer là gì, để làm gì, cú pháp file composer.json, cách dùng. Phar là gì. Thử xem code trong file composer/composer.phar. Chú ý `require` vs `require-dev`, cách khai báo `autoload` và composer tạo file `vendor/autoload.php` như thế nào, sẽ autoload như thế nào với từng loại autoload
   - Cách tạo 1 php package với composer
-  - PHPUnit
+  - PHPUnit, khởi tạo phần test cho 1 package như thế nào(dùng `phpunit --generate-configuration`)
   - Xem cấu trúc 1 số package trong PHP https://packagist.org/
 
 - Thực hành 1:
