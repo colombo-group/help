@@ -1,6 +1,7 @@
 # Kế hoạch đào tạo cơ bản 1 tháng
 
-[Tuần 1](#tuần-1) - [Tuần 2](#tuần-2) - [Tuần 3](#tuần-3) - [Tuần 4](#tuần-4)
+Đề bài : [Tuần 1](#tuần-1) - [Tuần 2](#tuần-2) - [Tuần 3](#tuần-3) - [Tuần 4](#tuần-4)
+Bài làm : [Tuần 1](#bài-làm-tuần-1) - [Tuần 2](#bài-làm-tuần-2) - [Tuần 3](#bài-làm-tuần-3) - [Tuần 4](#bài-làm-tuần-4)
 
 ## Tuần 1
 - Mục tiêu kiến thức
@@ -102,6 +103,7 @@
 - Mục tiêu kiến thức
   - PHP 5.6 7, Design pattern trong PHP
   - Composer, khởi tạo 1 package
+  - Thuật toán, cấu trúc dữ liệu
 
 - Lý thuyết :
   - Cú pháp PHP cơ bản, cách đọc PHP document, tra hàm, ...
@@ -125,6 +127,7 @@
   - Viết file `readme.md` giới thiệu, hướng dẫn cách sử dụng
   - Submit lên Packagist sau khi hoàn thiện các tính năng trên
   - Cập nhật file `readme.md` với cách cài đặt bằng composer
+- Thực hành 2:
 
 
 ## Tuần 4
@@ -132,3 +135,24 @@
   - Command line, queue
   - Laravel
   - Webpack 
+
+
+## Bài làm tuần 1
+- Ngô Phương Tuấn 
+  - [BS4 sass gulp](https://github.com/TinyPoro/bootstrap4-scss-gulp-starter-kit)
+- Nguyễn Văn Duy
+  - [BS4 sass gulp](https://github.com/NEYUGNYUD/duy-bs001)
+
+## Bài làm tuần 2
+- Ngô Phương Tuấn 
+  - [jQuery Plugin : inner float](https://github.com/TinyPoro/bootstrap4-scss-gulp-starter-kit/tree/master/jquery_plugin) 
+  - [Nodejs : remote browser](https://github.com/TinyPoro/nodejs) 
+- Nguyễn Văn Duy
+  - [jQuery plugin : inner float](https://github.com/NEYUGNYUD/duy-jquery001)
+
+
+## Bài làm tuần 3
+- Ngô Phương Tuấn 
+  - Thực hành 1: [Git](https://github.com/TinyPoro/NPTuan) [Packagist](https://packagist.org/packages/ngophuongtuan/url_helper)
+
+## Bài làm tuần 4
