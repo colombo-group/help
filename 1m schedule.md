@@ -1,6 +1,7 @@
 # Kế hoạch đào tạo cơ bản 1 tháng
 
 Đề bài : [Tuần 1](#tuần-1) - [Tuần 2](#tuần-2) - [Tuần 3](#tuần-3) - [Tuần 4](#tuần-4)
+
 Bài làm : [Tuần 1](#bài-làm-tuần-1) - [Tuần 2](#bài-làm-tuần-2) - [Tuần 3](#bài-làm-tuần-3) - [Tuần 4](#bài-làm-tuần-4)
 
 ## Tuần 1
@@ -112,9 +113,10 @@ Bài làm : [Tuần 1](#bài-làm-tuần-1) - [Tuần 2](#bài-làm-tuần-2) - 
   - [Design pattern](https://github.com/kamranahmedse/design-patterns-for-humans), [design pattern trong PHP](https://github.com/domnikl/DesignPatternsPHP)
   - Xem qua PHP-FIG, xem PSR-4 là gì
   - Composer là gì, để làm gì, cú pháp file composer.json, cách dùng. Phar là gì. Thử xem code trong file composer/composer.phar. Chú ý `require` vs `require-dev`, cách khai báo `autoload` và composer tạo file `vendor/autoload.php` như thế nào, sẽ autoload như thế nào với từng loại autoload
-  - Cách tạo 1 php package với composer
+  - Cách tạo 1 php package với composer, xem cấu trúc cơ bản của 1 php package [PHP skeleton](https://github.com/colombo-trainee/skeleton)
   - PHPUnit, khởi tạo phần test cho 1 package như thế nào(dùng `phpunit --generate-configuration`)
   - Xem cấu trúc 1 số package trong PHP https://packagist.org/
+  - Cấu trúc dữ liệu, thuật toán với PHP [PHP Data Structure and Algorithms](https://github.com/mirahman/PHP-Data-Structure-and-Algorithms)
 
 - Thực hành 1:
   - Tạo 1 PHP package với composer hỗ trợ thao tác với URL
@@ -128,7 +130,9 @@ Bài làm : [Tuần 1](#bài-làm-tuần-1) - [Tuần 2](#bài-làm-tuần-2) - 
   - Submit lên Packagist sau khi hoàn thiện các tính năng trên
   - Cập nhật file `readme.md` với cách cài đặt bằng composer
 - Thực hành 2:
-
+  - Chọn 2 thuật toán bất kỳ trong đó có 1 thuật toán về đồ thị để trình bày, giải thích cho các intern khác trong 1 buổi thuyết trình. Danh sách tại [PHP Data Structure and Algorithms](https://github.com/mirahman/PHP-Data-Structure-and-Algorithms)
+  - Chú ý với mỗi thuật toán cần trình bày : Tên, Ứng dụng, Vấn đề(input/output), Tư tưởng chung của giải pháp, Trình bày các bước của giải pháp trên code.
+  - Mục tiêu : Đọc hiểu và giải thích cho người khác hiểu.
 
 ## Tuần 4
 - Mục tiêu kiến thức
@@ -136,6 +140,22 @@ Bài làm : [Tuần 1](#bài-làm-tuần-1) - [Tuần 2](#bài-làm-tuần-2) - 
   - Laravel
   - Webpack 
 
+- Lý thuyết :
+  - Command line trong Linux/Windows, cách truyền biến vào command, phân biệt argument/option/input stream. Khái niệm stdin, stdout, stderr, signal.
+  - Chế độ command line của PHP, cách truyền argument/option vào trong code php khi sử dụng chế độ command
+  - Queue : tìm hiểu khái niệm queue, worker, dispathcher trong `Message Queue/Worker System`
+  - Nếu chưa dùng Laravel thì làm theo 1 tutorial đơn giản bất kỳ để biết Laravel là gì. Sơ qua bố cục code, cách làm việc. Khuyến nghị [Laravel 5.4 From Scratch](https://laracasts.com/series/laravel-from-scratch-2017) hoặc [Realtime Chat Demo with Laravel 5.4, VueJS, and Pusher](https://github.com/jplhomer/laravel-realtime-chat-demo)
+  - Đọc qua 2 3 lượt phần [Architecture Concepts](https://laravel.com/docs/5.5/lifecycle)
+  - Các phần khác đọc 1 lượt, chú ý phần [Package Development](https://laravel.com/docs/5.5/packages)
+
+- Thực hành 1:
+  - Fork 1 bản [Realtime Chat Demo with Laravel 5.4, VueJS, and Pusher](https://github.com/jplhomer/laravel-realtime-chat-demo) sau đó clone về máy và cài đặt để chạy được trên máy cá nhân(chat được realtime).
+  - Bài [tutorial](https://jplhomer.org/2017/01/building-realtime-chat-app-laravel-5-4-vuejs/), xem các lần commit và sự thay đổi để biết được người ta sửa gì để giải quyết vấn đề [commits](https://github.com/jplhomer/laravel-realtime-chat-demo/commits/master)
+  - Nâng cấp project lên bản Laravel 5.5.
+- Thực hành 2:
+  - Sử dụng [laravel echo server](https://github.com/tlaverdure/laravel-echo-server) thay cho Pusher.
+  - Hỗ trợ nhiều room khác nhau : Ví dụ truy cập link `http://example.com/chat/room1` hệ thống tự động tạo `room1` nếu chưa có(chỉ tự động tạo nếu user hiện tại có `id` bằng 1), còn lại sẽ giống như hiện tại.
+  - User có `id` bằng 1 có thể xóa tin nhắn của bất kỳ ai. Những người khác chỉ có thể xóa tin nhắn của mình.
 
 ## Bài làm tuần 1
 - Ngô Phương Tuấn 
