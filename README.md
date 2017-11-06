@@ -66,5 +66,6 @@
 + [Bài tập cơ bản](https://github.com/colombo-trainee?q=trainee)
 + [Bài tập jquery](https://github.com/colombo-trainee?q=jquery)
 + [Bài tập bootstrap](https://github.com/colombo-trainee?q=bootstrap)
++ [Kế hoạch cơ bản 1 tháng](https://github.com/colombo-trainee/help/blob/master/1m%20schedule.md)
 
 Go to [wiki](https://github.com/colombo-trainee/help/wiki) to view more
