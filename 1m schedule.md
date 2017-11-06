@@ -2,8 +2,6 @@
 
 Đề bài : [Tuần 1](#tuần-1) - [Tuần 2](#tuần-2) - [Tuần 3](#tuần-3) - [Tuần 4](#tuần-4)
 
-Bài làm : [Tuần 1](#bài-làm-tuần-1) - [Tuần 2](#bài-làm-tuần-2) - [Tuần 3](#bài-làm-tuần-3) - [Tuần 4](#bài-làm-tuần-4)
-
 ## Tuần 1
 - Mục tiêu kiến thức
   - HTML5 & CSS3
@@ -157,22 +155,3 @@ Bài làm : [Tuần 1](#bài-làm-tuần-1) - [Tuần 2](#bài-làm-tuần-2) - 
   - Hỗ trợ nhiều room khác nhau : Ví dụ truy cập link `http://example.com/chat/room1` hệ thống tự động tạo `room1` nếu chưa có(chỉ tự động tạo nếu user hiện tại có `id` bằng 1), còn lại sẽ giống như hiện tại.
   - User có `id` bằng 1 có thể xóa tin nhắn của bất kỳ ai. Những người khác chỉ có thể xóa tin nhắn của mình.
 
-## Bài làm tuần 1
-- Ngô Phương Tuấn 
-  - [BS4 sass gulp](https://github.com/TinyPoro/bootstrap4-scss-gulp-starter-kit)
-- Nguyễn Văn Duy
-  - [BS4 sass gulp](https://github.com/NEYUGNYUD/duy-bs001)
-
-## Bài làm tuần 2
-- Ngô Phương Tuấn 
-  - [jQuery Plugin : inner float](https://github.com/TinyPoro/bootstrap4-scss-gulp-starter-kit/tree/master/jquery_plugin) 
-  - [Nodejs : remote browser](https://github.com/TinyPoro/nodejs) 
-- Nguyễn Văn Duy
-  - [jQuery plugin : inner float](https://github.com/NEYUGNYUD/duy-jquery001)
-
-
-## Bài làm tuần 3
-- Ngô Phương Tuấn 
-  - Thực hành 1: [Git](https://github.com/TinyPoro/NPTuan) [Packagist](https://packagist.org/packages/ngophuongtuan/url_helper)
-
-## Bài làm tuần 4
