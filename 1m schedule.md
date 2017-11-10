@@ -39,6 +39,7 @@
   - Javascript cơ bản, Object vs Array trong javascript, thao tác với string trong javascript
   - ES6 và sự khác biệt với ES5
   - Cú pháp nodejs, cài đặt, modules, ...
+  - Đọc qua [Nodejs best practices](https://github.com/i0natan/nodebestpractices#1-project-structure-practices)
 
 - Thực hành 1
   - Tạo 1 jquery plugin để áp dụng hiệu ứng cho 1 thành phần div bên trong 1 div cha như hình vẽ
