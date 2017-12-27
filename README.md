@@ -14,11 +14,28 @@
  
 - Khi push lên phải chú ý mình đang ở chế độ develop, do đó không push các file liên quan đến product(nếu bài tập có dạng develop/product như các bài `sass`, hay `laravel`) như file `asset` đã được gen từ file nguồn(sass, less, coffe, es6, ...) và các file lưu biến môi trường và chứa các thông tin liên quan xác thực người dùng của các dịch vụ như email, ftp, ssh, cloud drive, ...
 
+# Colombo leanpath
+
+## 2016
++ [Trainee 2016](training-2016.md)
++ [Bài tập cơ bản](https://github.com/colombo-trainee?q=trainee)
++ [Bài tập jquery](https://github.com/colombo-trainee?q=jquery)
++ [Bài tập bootstrap](https://github.com/colombo-trainee?q=bootstrap)
+
+## 10/2017
++ [Kế hoạch cơ bản 1 tháng](https://github.com/colombo-trainee/help/blob/master/1m%20schedule.md)
++ Bổ sung kiến thức theo chuyên đề.(updating)
+
 # HTML/CSS/JAVASCRIPT
 
 + [Hướng dẫn chuyển từ PSD sang HTML](https://www.izwebz.com/search/?q=PSD+sang+HTML&cx=014821440840817908112%3Atm2aqsqxgka&cof=FORID%3A10&ie=UTF-8&filter=0&siteurl=)
 + Tài liệu, bài tập [tại đây](https://github.com/colombo-trainee/help/tree/master/Web%20Frontend)
 + Làm giao diện từ Bootstrap [Bootstrap theme](https://github.com/colombo-trainee/help/blob/master/articles/customize_bootstrap.md)
+
+# UI & UX
+
++ Bài tập tìm hiểu cơ bản [ui ux](https://github.com/colombo-trainee/ui_ux)
++ Bài tập áp dụng
 
 # DEV Tools
 
@@ -59,13 +76,5 @@
 + **007: Học ngôn ngữ lập trình mới** [TrieuNV](seminars/007-new-program-languge.pptx)
 + **008: Học tiếng Anh hiệu quả** [MinhMQ](seminars/008-English.pdf)
 + **009: Flexbox css3** [ThanhNT](seminars/009-flexbox-css3.ppt)
-
-# Colombo leanpath
-
-+ [Trainee 2016](training-2016.md)
-+ [Bài tập cơ bản](https://github.com/colombo-trainee?q=trainee)
-+ [Bài tập jquery](https://github.com/colombo-trainee?q=jquery)
-+ [Bài tập bootstrap](https://github.com/colombo-trainee?q=bootstrap)
-+ [Kế hoạch cơ bản 1 tháng](https://github.com/colombo-trainee/help/blob/master/1m%20schedule.md)
 
 Go to [wiki](https://github.com/colombo-trainee/help/wiki) to view more
