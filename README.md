@@ -26,6 +26,9 @@
 + [Kế hoạch cơ bản 1 tháng](https://github.com/colombo-trainee/help/blob/master/1m%20schedule.md)
 + Bổ sung kiến thức theo chuyên đề.(updating)
 
+## 02/2018
++ TTS 2018 [2 tháng](https://docs.google.com/spreadsheets/d/1AcPRWhkGZsbpEEnysr7i6qq9YZHvAOyGe_X_DFYu2TE/edit?usp=sharing)
+
 # HTML/CSS/JAVASCRIPT
 
 + [Hướng dẫn chuyển từ PSD sang HTML](https://www.izwebz.com/search/?q=PSD+sang+HTML&cx=014821440840817908112%3Atm2aqsqxgka&cof=FORID%3A10&ie=UTF-8&filter=0&siteurl=)
